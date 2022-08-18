@@ -6,7 +6,6 @@ A react-rails app to show greetings
 
 - Ruby
 - Ruby on Rails
-- React
 - PostgreSQL
 
 ## Getting Started
@@ -25,7 +24,7 @@ If you don't have yarn installed, you can follow this [tutorial](https://classic
 
 In your terminal, navigate to your current directory and run this code
 
-`git clone https://github.com/deyemiobaa/hello-react-rails-app.git`
+`git clone https://github.com/IfzaRasool/hello-rails-back-end.git`
 
 Then run
 
